@@ -1,0 +1,13 @@
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.exe
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.deps.json
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.runtimeconfig.json
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.runtimeconfig.dev.json
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.dll
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\bin\Debug\netcoreapp3.1\CMDSerialization.pdb
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.csprojAssemblyReference.cache
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.AssemblyInfoInputs.cache
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.AssemblyInfo.cs
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.csproj.CoreCompileInputs.cache
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.dll
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.pdb
+C:\Users\csuser\source\repos\CMDSerialization\CMDSerialization\obj\Debug\netcoreapp3.1\CMDSerialization.genruntimeconfig.cache
